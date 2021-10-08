@@ -1,3 +1,5 @@
+#!/bin/bash -x
+
 function getMonth () { 
 case $1 in 
 0) 
